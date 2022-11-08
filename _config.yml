@@ -11,9 +11,8 @@ exclude:
 # Site settings
 title: Deep Generative Models
 subtitle: "AIM5036, Fall 2022"
-email: jun.park@skku.edu
-name: Jun H. Park
-theme: Mediator
+email: jongwon208@skku.edu
+name: Jongwon Park
 description: >
 #  A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
